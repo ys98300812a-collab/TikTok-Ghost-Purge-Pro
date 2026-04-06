@@ -51,7 +51,7 @@ This is a deep cleaning tool designed for TikTok creators to automatically ident
 
 你好！我是 **Hugo**。我熱衷於將 AI 與自動化技術轉化為真正能解決問題、提升效率的 **「實用數位工具」**。
 
-你的每一杯咖啡，不僅是對目前開發成果的肯定，更是支持我持續投入高品質開源專案（如 Zoe 助理計畫）、探索技術邊界的核心動力！謝謝你的支持。
+你的每一杯咖啡，不僅是對目前開發成果的肯定，更是支持我持續投入高品質開源專案、探索技術邊界的核心動力！謝謝你的支持。
 
 Every coffee you buy fuels my motivation to continue exploring more possibilities in AI digital tools and high-quality open-source projects.
 
