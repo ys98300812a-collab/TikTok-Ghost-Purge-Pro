@@ -1,8 +1,6 @@
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ys98300812a-collab&repo=TikTok-Ghost-Purge-Pro&theme=tokyonight&v=2" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ys98300812a-collab&layout=compact&theme=tokyonight&v=2" />
-</p>
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys98300812a-collab&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys98300812a-collab&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 # 🧹 TikTok Ghost Purge Pro (v3.1 Stable)
 
