@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "TikTok 封號清理器 3.0",
+  "version": "1.3.0",
+  "description": "具備斷點續傳與跳級功能的深度清理工具",
+  "permissions": ["activeTab", "storage", "scripting"],
+  "host_permissions": ["*://*.tiktok.com/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "TikTok 封號清理器"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.tiktok.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
