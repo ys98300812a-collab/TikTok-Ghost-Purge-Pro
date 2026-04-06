@@ -10,7 +10,7 @@ This is a deep cleaning tool designed for TikTok creators to automatically ident
 
 ---
 
-## 🚀 實測證明：支援 10,000+ 關注量大戶 (Battle-Tested)
+## 🚀 實測證明：支援 10,000 關注量大戶 (Battle-Tested)
 
 本工具由開發者親自實測，針對高關注數帳號具備極高穩定性：
 * **實測數據**：成功將關注人數從 **9,989 人** 清理至 **9,875 人** 且持續作業中。
