@@ -1,3 +1,6 @@
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ys98300812a-collab&repo=TikTok-Ghost-Purge-Pro&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys98300812a-collab&layout=compact&theme=tokyonight)
+
 # 🧹 TikTok Ghost Purge Pro (v3.1 Stable)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
