@@ -1,6 +1,4 @@
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ys98300812a-collab&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys98300812a-collab&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Alt](https://repobeats.axiom.co/api/embed/0cc63eb98cf3477b1646eff589d51bcf91fa0ce7.svg "Repobeats analytics image")
 
 # 🧹 TikTok Ghost Purge Pro (v3.1 Stable)
 
