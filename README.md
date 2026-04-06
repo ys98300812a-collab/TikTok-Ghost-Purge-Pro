@@ -39,7 +39,7 @@
 ## ☕ 贊助支持
 如果你覺得這個工具有幫到你，歡迎請我喝杯咖啡，支持我持續開發更多 AI 數位工具！
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](你的連結)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X71XDDOW)
 
 ## ⚖️ 免責聲明
 本工具僅供學術研究與自動化技術交流使用。使用本工具產生的任何帳號風險由使用者自行承擔。建議分段執行清理工作，避免短時間內大規模取消關注。
